@@ -1,6 +1,7 @@
 # mini-projet-test
 ## Presentation du mini projet
-Ceci est les objectifs et la présentation du projet
+Ceci est les objectifs et la présentation du projet 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/islem123-cell/mini-projet-test/main?filepath=index.ipynb)
 ## :open_file_folder: Dataset :blush:
 
 
